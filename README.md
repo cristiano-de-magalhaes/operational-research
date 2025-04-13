@@ -34,7 +34,7 @@ Ideal para quem deseja aplicar conceitos de otimização na área de **finanças
    ```bash
    pip install -r requirements.txt
    ```
-3. Abra o notebook:
+3. Ou abra o notebook diretamente no Google Colab:
 
    [![Abra no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cristiano-de-magalhaes/operational-research/blob/main/operational_research_lab.ipynb)
 
