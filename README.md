@@ -35,10 +35,8 @@ Ideal para quem deseja aplicar conceitos de otimização na área de **finanças
    pip install -r requirements.txt
    ```
 3. Abra o notebook:
+
    [![Abra no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cristiano-de-magalhaes/operational-research/blob/main/operational_research_lab.ipynb)
-
-   [![Launch Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cristiano-de-magalhaes/operational-research/blob/main/operational_research_lab.ipynb)
-
 
 ---
 
