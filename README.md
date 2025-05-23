@@ -10,7 +10,7 @@ O projeto visa construir um modelo matemático que maximize os **proventos esper
 
 - **Python 3.12**
 - **Jupyter Notebook**
-- **`pywraplp`** – interface Python do Google OR-Tools
+- **`ortools`** e **`pywraplp`** – interface Python do Google OR-Tools
 - **CBC** – Coin-or Branch and Cut, solucionador de problemas MIP
 
 ## 🧠 O que você vai encontrar
